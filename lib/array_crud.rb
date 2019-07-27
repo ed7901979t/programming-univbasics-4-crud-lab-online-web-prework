@@ -25,15 +25,15 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-    array.index_number[]
+    array.index[]
 end
 
 def retrieve_first_element_from_array(array)
-    array.index_number[0]
+    array.index[0]
 end
 
 def retrieve_last_element_from_array(array)
-    array.index_number[3]
+    array.index[3]
 end
 
 def update_element_from_index(array, index_number, element)
