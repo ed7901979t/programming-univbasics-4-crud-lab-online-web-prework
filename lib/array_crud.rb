@@ -16,15 +16,15 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-    remove_element_from_end_of_array.pop("Bob")
+    remove_element_from_end_of_array.pop()
 end
 
 def remove_element_from_start_of_array(array)
-    
+    remove_element_from_start_of_array.shift()
 end
 
 def retrieve_element_from_index(array, index_number)
-  
+    retrieve_element_from_index.index_number["1"]
 end
 
 def retrieve_first_element_from_array(array)
