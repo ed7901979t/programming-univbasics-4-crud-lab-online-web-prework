@@ -46,7 +46,7 @@ end
  add_element_to_start_of_array(create_an_array, "Joe")
  remove_element_from_end_of_array(create_an_array)
  remove_element_from_start_of_array(create_an_array)
- retrieve_element_from_index(create_an_array, [1])
+ retrieve_element_from_index(create_an_array, ["Edward"])
  retrieve_last_element_from_array(create_an_array)
  retrieve_first_element_from_array(create_an_array)
  
