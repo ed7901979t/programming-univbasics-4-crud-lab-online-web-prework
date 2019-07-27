@@ -29,11 +29,11 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-    array.index[0]
+    array [0]
 end
 
 def retrieve_last_element_from_array(array)
-    array.index[3]
+    array [-1]
 end
 
 def update_element_from_index(array, index_number, element)
@@ -46,7 +46,7 @@ end
  add_element_to_start_of_array(create_an_array, "Joe")
  remove_element_from_end_of_array(create_an_array)
  remove_element_from_start_of_array(create_an_array)
- retrieve_element_from_index(create_an_array, "Edward")
- retrieve_last_element_from_array(create_an_array)
- retrieve_first_element_from_array(create_an_array)
+ retrieve_element_from_index(array, index_number)
+ retrieve_last_element_from_array(array)
+ retrieve_first_element_from_array(array)
  
